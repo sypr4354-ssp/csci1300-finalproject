@@ -3,7 +3,7 @@ cs final project
 # CSCI 1300 Final Project
 
 ## Theme
-(TBA)
+Marvel Superhero RPG Terminal
 
 ## Goal
 (TBA)
