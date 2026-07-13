@@ -1,0 +1,3 @@
+Hydra_Outpost 45 Low
+Ultron_Sentinels 80 Medium
+Thanos_Fleet 150 Critical
