@@ -1,3 +1,4 @@
-Hydra_Outpost 45 Low
-Ultron_Sentinels 80 Medium
-Thanos_Fleet 150 Critical
+Helicarrier 0 Security_Pass
+Stark_Tower 20 Arc_Reactor
+Wakanda_Outpost 40 Vibranium_Core
+Kamar_Taj 60 Eye_Of_Agamotto
