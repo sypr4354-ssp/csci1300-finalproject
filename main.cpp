@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    // Game State Trackers (Rubric Resource Requirements)
+    // Game State Trackers 
     int currentDay = 1;
     const int MAX_DAYS = 7;
     int shieldEnergy = 100; // Limited second resource metric
